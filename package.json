@@ -1,0 +1,16 @@
+{
+  "name": "country-state-updater",
+  "version": "0.0.6",
+  "description": "A tool that generates a country/state list for novo-elements from the database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Dickerson",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
